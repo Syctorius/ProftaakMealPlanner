@@ -1,0 +1,15 @@
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\bin\Debug\Proftaak.exe.config
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\bin\Debug\Proftaak.exe
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\bin\Debug\Proftaak.pdb
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.FiltersScherm.resources
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.StartScherm.resources
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.Properties.Resources.resources
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.UserControls.CategorySelection.resources
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.Zoekresultaten.resources
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.csproj.GenerateResource.cache
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.csproj.CoreCompileInputs.cache
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.exe
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.pdb
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.UserControl1.resources
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.csprojAssemblyReference.cache
+C:\Users\wesse\source\repos\DatabasePT12\Proftaak\obj\Debug\Proftaak.ResourceImages.resources
